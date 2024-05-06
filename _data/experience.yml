@@ -1,19 +1,73 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Lead developper - L'Occitane
+- company: CODEWORKS | L'Occitane en Provence
+  position: Senior fullstack dev - Bilingue (EN/FR) / mostly remote
+  duration: Août 2021 &mdash; Present
+  summary: <b> Customer Centric APIs </b> <br/> Au sein d'une équipe de 3 developpeurs seniors et directement rattaché au staff manager, ma mission consiste à concevoir, développer, déployer des APIs mis à disposition des autres équipes techniques. <ul> <li><b>Langages</b> Kotlin, Javascript</li><li><b>Frameworks/Librairies</b> Spring boot 5.x, JUNIT 5</li> <li><b>CI/CD</b> Git, Azure DevOps, Elastic search</li> <li><b>Qualité / Bonnes pratiques</b> TDD, Déploiement continue</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Lead dev - Front
+- company: CODEWORKS | Great Place to Work France
+  position: Developpeuse Front / Full remote
+  duration:  Mai 2021 &mdash; Août, 2021
+  summary: <b> Vicki</b> <br/> Directement rattachée au CTO, j'ai accompagné Great Place to Work France dans la mise en place d'une application Front permettant au métier d'automatiser la compilation des réponses aux enquêtes envoyés à leurs clients. <ul><li><b>Gestion de projet</b> &nbsp; Accompagnement sur la co-construction de la méthodologie de travail. Sélection des outils et définition et priorisation des besoins de développement</li><li><b>Backend</b> &nbsp; Définition et exposition d’APIs permettant de vérifier les erreurs et doublons contenus dans différents fichiers collaborateurs. Combinaison de différents fichiers collaborateurs en un seul.</li><li><b>Front-end</b>&nbsp; Listing des périmètres ( Business Unit) et possibilité d’importer/exporter des fichiers collaborateurs et de visualiser les erreurs contenus dans les fichiers pour correction.</li></ul></ul> <b> Technos &amp; Méthodologie </b> <ul><li><b>Langages</b> Typescript, Kotlin, HTML5, CSS3</li><li><b>Paradigmes</b> POO / Programmation fonctionnelle/ Railway Oriented Programming</li><li><b>Frameworks/Librairies</b> Spring boot, Apache POI, JUnit 5, Swagger,SpringMockk, VueJS 2.x, Vue Testing Utils, Axios, Jest</li> <li><b>CI/CD</b> Git, Gradle, Clever cloud</li> <li><b>Qualité / Bonnes pratiques</b> Architecture hexagonale / TDD / Tests Paramétriques</li></ul>
 
+# Lead dev - Front
+- company: CODEWORKS | L'Oréal France
+  position: Lead dev front / Full remote 
+  duration: Février 2021  &mdash; Mars 2021
+  summary: <b>Projet Conjoint Analysis</b> <br/> POC d’une solution custom intégrant de la data science (côté back) et une web application pour l'édition des simulations et l'analyse fine des impacts de changements de prix. J’intervenais en sous traitance pour la réalisation de la web application. <ul><li>Affichage des données analytiques liées à une étude ( population, répartition,marques concernées etc.)</li> <li>Visualisation/Modification de scénarios pré-calculés par l’IA </li><li>Data visualisation de la courbe d’élasticité de prix</li> <li> Duplication, sauvegarde et téléchargement des nouvelles données produites par l’IA</li></ul> <b> Technos &amp; Méthodologie </b> <ul> <li><b>Langages</b> Javascript, HTML5, CSS3</li><li><b>Frameworks/Librairies</b> VueJS 2.x / Vue Testing Utils</li> <li><b>CI/CD</b> Git, Azure DevOps</li> <li><b>Qualité / Bonnes pratiques</b> TDD, Déploiement continue, modularité des composants VueJS</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: SOAT | ORANGE BANK
+  position: Lead developpeuse Front ( Angular > 7 )
+  duration: Mars 2018  &mdash; Mars 2019
+  environnement:  Angular 5 - AWS - NEST.JS - NGRX - DOCKER
+  summary:  Néo-banque 100% en ligne créée en 2019. Ma mission consiste à renforcer l’équipe Front-Web sur les phases de conception, développement et déploiement hors-prod. <ul><li><b>Convergence monétique</b> Migration de clients Orange Bank de Visa vers Mastercard</li><li><b>Espace client - Pack premium </b> Nouvelle offre Orange Bank pour la famille permettant decréer des comptes enfants contrôlables par au moins 1 parent via une application mobile</li><li><b>Enrôlement - RIO - Front-web</b></li></ul><b> Technos &amp; Méthodologie </b> <ul><li><b>Frameworks/Librairies</b> &nbsp; Angular >7, Karma</li><b>Rôle</b> Réduction de la dette technique, accompagnement des autres dev au TDD, code Review, documentation du workflow de déploiement/li></ul>
+
+- company: SOAT | Cegedim.Cloud
+  position:  Lead Tech Front / Développeuse Java
+  duration: Avril 2019  &mdash; Avril 2020
+  environnement:  ANGULAR, ANGULARJS, WEBPACK, SPRING BOOT, SPRING DATA, WIREMOCK, SONARQUBE, GITLAB, JENKINS, KARMA, JASMINE, POSTGRESQL, LIQUIBASE 3.4, SWAGGER
+  summary: Editeur de logiciels de santé. La branche Cegedim.Cloud propose aux entreprises du domaine médical une infrastructure cloud pour l’hébergement et l’infogérance de leurs applications et des données de leur patientèle.<p><b> Missions</b><ul><li> Onboarding des dev sur les pratiques à adopter côté front</li><li>  Migration ITCare de bower/gruntJS vers webpack 4.x & AngularJS 1.5 </li><li> Mise en place de pipeline de déploiement Gitlab + Jenkins pour les projets front</li><li> Industrialisation du bootstrap de projets front via Angular schematics</li><li>Livraison Lot 1 du projet customers-care</li> <li> [API] exposition de différentes APIs via swagger</li> <li> [Legacy] refactoring + exposition de nouvelles APIs pour les besoins de customers- care </li></ul></p> <p><b> Technos &amp; Méthodologie </b> <ul><li><b>Langages</b> Java 7&8, Javascript/Typescript, HTML5, CSS3</li><li><b>Frameworks/Librairies</b> Spring boot, Swagger, Maven 3,AngularJS, Angular 6, Karma, Keycloak</li> <li><b>CI/CD</b> Git, Gitlab + Jenkins, SonarQube, Maven 3, Webpack 4.0.0, Docker, Kubernetes, JUnit 4, Mockito, Wiremock, Karma</li> <li><b>Qualité / Bonnes pratiques</b> Features Branches, TDD, Clean Code, Pair Programming, Code Review</li></ul></p>
+   
+
+- company: SOAT | BIO C BON
+  position:  Developpeuse fullstack - JAVA / ANGULARJS
+  duration:  Mars 2017  &mdash; Avril 2018
+  environnement: JAVA 8, ANGULARJS 1.5, RABBITMQ, MOCKITO, MAVEN 3.1, LIQUIBASE 3.4, HIBERNATE 5, GIT
+  summary: <b>El mout'</b> <br/> ERP maison permettant au groupe de gérer le réapprovisionnement des magasins et de ses entrepôts de la région PACA puis sur l'ensemble du réseau. <p> <b> Technos &amp; Méthodologie </b> <ul><li><b>Langages</b> Java 7&8, Javascript, HTML5, CSS3</li><li><b>Frameworks/Librairies</b> Spring MVC, Liquibase 3.4, Hibernate 5, AngularJS 1.5</li><li><b>Qualité / Bonnes pratiques</b> Lead bonnes pratiques de tests unitaires Front et backs, Modularisation du code front ( John papa's - 2018 style)</li></ul></p>
+
+#  dev - Front
+- company: SOAT | AMADEUS France
+  position: DEVELOPPEUSE BACK - JAVA
+  duration:   Decembre 2016  &mdash; Mars 2017
+  environnement: JAVA 8, WEB SERVICES SOAP, JUNIT 4.11, MAVEN 3.1
+  summary: <b>PCI DSS</b> <br/> Implémentation de nouvelles APIs de paiement pour une compatibilité PCI DSS des clients AMADEUS <p> <b> Technos &amp; Méthodologie </b> <ul><li><b>Langages</b> &nbsp; Java 8</li><li><b>Frameworks/Librairies</b> &nbsp; Web Services SOAP, JUnit 4.11, Maven 3.1</li></ul></p>
+
+#  dev 
+- company: SOAT | Groupe CANAL+ SA
+  position: DEVELOPPEUSE Fullstack
+  duration:   Février 2015  &mdash; Décembre 2016
+  environnement: JAVA 7, SPRING BATCH, HIBERNATE 3.6, SPRING 3.2, JUNIT, LIQUIBASE 3.4, MAVEN 3.1, GIT
+  summary: <b>CGAWEB</b> <br/> Développement de nouvelles fonctionnalités et correction d’anomalies au sein Système d’information du Groupe Canal+/CanalSat France
+  missions: 
+   Conception & developpement de nouveaux besoins du pôle marketing CGAWeb ( back office)
+   Développement et correction d'anomalies liées à la gestion des impayés ( back ) Conception & développement de nouveaux besoins du pôle marketing sur Face ( front)
+   Développement de batch automatisant des traitements métiers ( relance des abonnés, mise à jour de coordonnées bancaires etc.)
+   Exposition de nouveaux APis Rest
+
+#  dev - Front
+- company: SOAT | Solocal group / Pages jaunes
+  position: DEVELOPPEUSE Fullstack
+  duration:   Juillet 2013  &mdash; Décembre 2014
+  environnement: JAVA 7, JAVASCRIPT, BACKBONE.JS, HANDLEBARS, KARAF (SERVEUR OSGI), JAVA 7, GIT
+  summary: Digitalisation des processus internes d’acquisition de nouveaux clients et de fidélisation des anciens.
+   (Vision) Refonte du SI pour la "digitalisation" des outils de prise de commandes des commerciaux Pages jaunes sur le terrain
+   (Selfcare vitrine) -  Espace dédié aux annonceurs leur permettant de gérer leurs produit au sein des "vitrines" à publier
+  missions: 
+   Conception & developpement de nouveaux besoins du pôle marketing CGAWeb ( back office)
+   Développement et correction d'anomalies liées à la gestion des impayés ( back ) Conception & développement de nouveaux besoins du pôle marketing sur Face ( front)
+   Développement de batch automatisant des traitements métiers ( relance des abonnés, mise à jour de coordonnées bancaires etc.)
+   Exposition de nouveaux APis Rest
+   Conception et développement front
+   Gestion du déploiement
+   Rédaction de la procédure de déploiement pour les différents environnements

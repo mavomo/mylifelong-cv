@@ -1,5 +1,9 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://www.youtube.com/watch?v=goH4uPLRfuM&ab_channel=apidays"
+  description: Cultivating changes with APIs @L'Occitane en Provence
+- url: "https://gitlab.soat.fr/SoftwareCrafters/masterclasses"
+  description: Présentation brève sur le nommage à Devoxx France 2018 
+- url: "https://snowcamp2019.sched.com/speaker/michelle.avomo"
+  description: Présentation du kata sur le D de SOLID à la Snowcamp.io 2019
+- url: "https://vimeopro.com/newcrafts/newcrafts"
+  description: Présentation du kata sur le D de SOLID à la ncrafts 2019

@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Langages maîtrisés
+- skill: Langages maîtrisés
+  description: Kotlin, Java 7 &8, Javascript, Typescript, HTML5, SQL
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Frameworks
+- skill: Frameworks
+  description: Spring 4,5 & Spring boot, Webpack, Angular <=7 , Mockito, Wiremock, Hibernate 5, Spring test, Junit, Karma, Jest, Jasmine, 
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Methodologies
+- skill: Méthodes de developpement
+  description: TDD, Refactoring on legacy code, Pair or mob programming
+
+# Outils de developpement
+- skill: Outils de developpement
+  description: Intellij Idea, Git, NPM, Maven, Gitlab, CI/CD
+
+# Outils de developpement
+- skill: Langues
+  description: <ul><li><b>Anglais</b> - Courant </li><li><b>Espagnol</b> - bon niveau </li></ul>

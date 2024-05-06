@@ -1,13 +1,15 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# Diplômes
+- degree: Master II Génie Logiciel 
+  uni: Université Bordeaux I - Bordeaux
+  year: 2010 &mdash; 2012
+  summary: Master II pro option Conduite de projets
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master I Chef de Projet International Informatique
+  uni: Groupe ESAIP - Angers
+  year: 2008 &mdash; 2010
+  summary: Formation post bac+2 incluant des séjours à l'étranger <ul class="resume-item-list"><li><b>Janvier &mdash; Mars 2008</b> Bucks New University - High Wycombe, Grande Bretagne</li><li><b>Janvier &mdash; Juin 2009</b> Universitat Politècnica de València - Valencia, Espagne</li></ul>
+
+- degree: DUT Services et réseaux de Communication
+  uni: IUT de Laval - Laval
+  year: 2006 &mdash; 2008
+  summary: Formation post bac
