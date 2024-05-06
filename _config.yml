@@ -20,11 +20,11 @@ resume_contact_email:           "michelle.avomo@proton.me"
 resume_contact_telephone:       "+33 6 4* ** ** *2"
 resume_contact_address:         "Paris"
 
-resume_header_contact_info:     "Paris • +33 6 4* ** ** *2 • michelle.avm@proton.me"
+resume_header_contact_info:     "Paris • +33 6 4* ** ** *2 • michelle.***@proton.me"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Développeuse Java puis Front étant passée par Backbone, AngularJS, Angular puis VueJS. Ravie d'avoir retrouvé le monde du back-end par des APIs en Kotlin depuis 2021. 
-Recherche actuellement une mission de conseil. </p>"
+Recherche actuellement une mission de conseil intégrant du Cloud et de l'Observabilité. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
