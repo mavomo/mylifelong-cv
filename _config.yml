@@ -21,10 +21,10 @@ resume_contact_telephone:       "+33 6 4* ** ** *2"
 resume_contact_address:         "Paris"
 
 resume_header_contact_info:     "Paris • +33 6 4* ** ** *2 • michelle.***@proton.me"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Développeuse Java puis Front étant passée par Backbone, AngularJS, Angular puis VueJS. Ravie d'avoir retrouvé le monde du back-end par des APIs en Kotlin depuis 2021. 
-Recherche actuellement une mission de conseil intégrant du Cloud et de l'Observabilité. </p>"
+resume_header_intro: "<p>Diplômée 2012, j'ai démarré ma vie professionnelle comme développeuse Java puis Front étant passée par Backbone.js, AngularJS, Angular puis VueJS. Ravie d'avoir retrouvé le monde du back-end par de la conception d'APIs en Kotlin depuis 2021. </p>
+ <p> Je m'intérresse actuellement aux outils soutenant la culture DevOps, aux enjeux de la cybersécurité et autres domaines complémentaires du génie logiciel intégrant de la complexité technique et/ou fonctionnelle. </p> <p>Je vis et travaille à Paris.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,7 +36,7 @@ resume_looking_for_work:        ""
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true  
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           true
@@ -47,9 +47,7 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/mavomo"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
   resume_linkedin_url:          "https://www.linkedin.com/in/michelle-a-622b8858"
-  #resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings

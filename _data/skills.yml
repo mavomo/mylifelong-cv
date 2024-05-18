@@ -1,11 +1,11 @@
 # Skills
 # Langages maîtrisés
 - skill: Langages maîtrisés
-  description: Kotlin, Java 7 &8, Javascript, Typescript, HTML5, SQL
+  description: Kotlin, Java 7&8, Javascript, Typescript, HTML5, SQL
 
 # Frameworks
-- skill: Frameworks
-  description: Spring 4,5 & Spring boot, Webpack, Angular <=7 , Mockito, Wiremock, Hibernate 5, Spring test, Junit, Karma, Jest, Jasmine, 
+- skill: Frameworks & Librairies
+  description: Spring 4,5 & Spring boot, Webpack, Angular <=7, NPM, Mockito, Wiremock, Hibernate 5, Spring test, Junit, Karma, Jest, Jasmine, TestContainers
 
 # Methodologies
 - skill: Méthodes de developpement
@@ -13,7 +13,7 @@
 
 # Outils de developpement
 - skill: Outils de developpement
-  description: Intellij Idea, Git, NPM, Maven, Gitlab, CI/CD
+  description: Intellij Idea, Git, NPM, Maven, Gradle, Gitlab, CI/CD, Sonar
 
 # Outils de developpement
 - skill: Langues

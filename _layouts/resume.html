@@ -110,14 +110,50 @@
       <!-- end Recognition -->
       {% endif %}
 
+      {% if site.resume_section_projects %}
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Investissement personnel</h2>
+        </header>
 
+        {% for project in site.data.projects %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <p class="resume-item-copy">{{ project.description }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Projects -->
+      {% endif %}
+
+      {% if site.resume_section_interests %}
+      <!-- begin Interests -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Centre d'intérêts</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for interest in site.data.interests %}
+            <li>{{ interest.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Interests -->
+      {% endif %}
 
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Exp&eacute;riences professionnelles</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -131,26 +167,7 @@
       </section>
       <!-- end Experience -->
       {% endif %}
-
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Projects</h2>
-        </header>
-
-        {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Projects -->
-      {% endif %}
+   
 
 
       {% if site.resume_section_associations %}
@@ -173,25 +190,6 @@
       <!-- end Associations -->
       {% endif %}
 
-      {% if site.resume_section_interests %}
-      <!-- begin Interests -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Intérêts hors tech</h2>
-        </header>
-
-        <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-
-      </section>
-      <!-- end Interests -->
-      {% endif %}
 
       {% if site.resume_section_links %}
       <!-- begin Links -->
@@ -229,9 +227,7 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+      <footer class="page-footer">        <p class="footer-line">Made for me.Inspired by <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
       </footer>
 
     </div>

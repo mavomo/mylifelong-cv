@@ -1,4 +1,6 @@
 # links
+- url : "https://ncrafts.io/"
+  description: "Site officiel de la NewCrafts"
 - url: "https://www.youtube.com/watch?v=goH4uPLRfuM&ab_channel=apidays"
   description: Cultivating changes with APIs @L'Occitane en Provence
 - url: "https://gitlab.soat.fr/SoftwareCrafters/masterclasses"
@@ -7,3 +9,13 @@
   description: Présentation du kata sur le D de SOLID à la Snowcamp.io 2019
 - url: "https://vimeopro.com/newcrafts/newcrafts"
   description: Présentation du kata sur le D de SOLID à la ncrafts 2019
+- url: "https://www.promyze.com/meetup-clean-code-soat/"
+  description: organisation d'un Meetup sur l'intérêt du code dit "propre"
+- url : "https://www.programmez.com/magazine/article/clean-code-le-nommage"
+  description: Rédaction d'articles pour le magazine programmez sur les sujets des Tests et du code dit "propre".
+- url: "https://www.neosoft.fr/nos-publications/blog-tech/temoignage-ma-decouverte-du-craft/"
+  description: Présentation du Craft à SOAT
+- url: "https://java.developpez.com/actu/103186/Apprendre-a-ecrire-du-JSON-natif-et-valide-pour-Spring-Batch-un-tutoriel-de-Michelle-Avomo/"
+  description: Rédaction d'un article sur un besoin custom identifié en mission
+- url : "https://www.agenceecofin.com/internet/1901-44048-une-start-up-ivoirienne-lance-une-plateforme-d-achat-et-de-reservation-de-tickets-de-cars-dediee-a-l-afrique"
+  description: "Présentation de lancement de mTick - LA plateforme de reservation de tickets en Afrique francophone"

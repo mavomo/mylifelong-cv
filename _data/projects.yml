@@ -1,16 +1,24 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# newcrafts
+- project: NewCrafts Paris
+  role: Bénévole
+  duration: Depuis Mai 2024
+  url: "https://ncrafts.io/"
+  description: NewCrafts est une conférence technique qui a lieu chaque année à Paris depuis 2014. NewCrafts rassemble les développeurs et développeuses ayant une appétance pour l'artisanat du code autour d'intervenant.e.s nationaux et internationaux dans le 15ieme pour aborder les questions autour des approches et paradigmes du code ainsi que les questions clefs liés à collaboration au sein des équipes et l'extraction de connaissance fonctionnelles auprès des experts du domaine. 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# craft@SOAT
+- project: Craft@SOAT
+  role: Co-animatrice des masterclass Craft 
+  duration: Mars 2017 &mdash; Juin 2020
+  url: "https://www.neosoft.fr/nos-publications/blog-tech/temoignage-ma-decouverte-du-craft/"
+  description: Au sein d'une équipe de 4 consultants, nous avons contribué à la consolidation d'une communauté de pratiques autour du Craft au sein d’une ESN employant différents profils (.NET, Front, Java, Data, Devops) répartis chez plusieurs clients. <ul><li>Modélisation des parcours (débutant - confirmés - expert)</li> <li>Concevoir et développer des katas et des TP (Java et Front) adaptés à chaque niveau</li> <li>Identifier et former des consultants en formateurs et formatrices SOAT autour du Craft</li> <li>Formation des promotions “Booster camp” (jeunes diplômés) sur les sujets Craft</li><li>Référente Craft (Java et Front) au sein de SOAT</li></ul>
+
+# mTick
+- project: mTick
+  role: Co-founder / Développeuse Full-Stack
+  duration: 2015 &mdash; Juin 2020
+  url: "https://www.agenceecofin.com/internet/1901-44048-une-start-up-ivoirienne-lance-une-plateforme-d-achat-et-de-reservation-de-tickets-de-cars-dediee-a-l-afrique"
+  description: mTick est un projet personnel innovant portant sur la mise en place d'une plateforme d’achat de tickets (transports et événementiels) par mobile money et cash pour l’Afrique francophone. En tant que co-fondatrice, j’endosse différents rôles en plus de celui de developpeuse Full-Stack.
+

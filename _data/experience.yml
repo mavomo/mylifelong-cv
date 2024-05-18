@@ -3,7 +3,14 @@
 - company: CODEWORKS | L'Occitane en Provence
   position: Senior fullstack dev - Bilingue (EN/FR) / mostly remote
   duration: Août 2021 &mdash; Present
-  summary: <b> Customer Centric APIs </b> <br/> Au sein d'une équipe de 3 developpeurs seniors et directement rattaché au staff manager, ma mission consiste à concevoir, développer, déployer des APIs mis à disposition des autres équipes techniques. <ul> <li><b>Langages</b> Kotlin, Javascript</li><li><b>Frameworks/Librairies</b> Spring boot 5.x, JUNIT 5</li> <li><b>CI/CD</b> Git, Azure DevOps, Elastic search</li> <li><b>Qualité / Bonnes pratiques</b> TDD, Déploiement continue</li></ul>
+  summary: <b> Customer Centric APIs </b> <br/> Au sein d'une équipe de 3 développeurs seniors et directement rattaché aux tech Advisors, notre mission "tout terrain" consiste à explorer, prioriser, concevoir, développer, déployer et sécuriser des APIs mises à disposition des autres équipes techniques répartis en Europe, Asie, Australie et Amerique. <ul> <li><b>Langages et outils</b> Kotlin, Javascript, noCode, Stoplight, Elastic Search</li><li><b>Frameworks/Librairies</b> Spring boot 5.x, JUNIT 5, TestContainers</li> <li><b>CI/CD</b> Git, Azure, Docker, BitBucket </li> <li><b>Qualité / Bonnes pratiques</b> TDD, livraison et déploiement continue, API design first</li><li><b>Evangelisation</b> co-animation de sessions de code, mise en place d'ateliers de présentation des concepts APIs, de l'intérêt d'écrire ses tests avant son code et l'intérêt de coder en même temps sur un même poste dans un contexte travail à distance.</li></ul>
+
+# Lead dev - Front
+- company: CODEWORKS | Ada Tech School
+  position: Intervenante externe
+  duration:  Avril &mdash; Juillet, 2021
+  summary:  <b>Ada Tech school</b> est une école d’informatique qui se définit comme féministe et se veut accessible à toutes et à tous. Ada promeut l’apprentissage du Code en deux ans à un public varié dans un cadre ouvert et bienveillant. <p> <ul> <li> Encadrement les apprenant.e.s lors de leurs journées de formation</li> <li> Édition des exercices </li> <li> Suivi pédagogique des apprenant(e)s</li> <li> Gestion de l'onboarding des nouveaux encadrants et apprenants </li></p>
+
 
 # Lead dev - Front
 - company: CODEWORKS | Great Place to Work France
