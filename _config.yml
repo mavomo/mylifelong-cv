@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Michelle AVOMO E."
 resume_title:                   "Fullstack software crafter Senior"
 
@@ -20,10 +20,10 @@ resume_contact_email:           "michelle.avomo@proton.me"
 resume_contact_telephone:       "+33 6 4* ** ** *2"
 resume_contact_address:         "Paris"
 
-resume_header_contact_info:     "Paris • +33 6 4* ** ** *2 • michelle.***@proton.me"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Paris • +33 6 4* ** ** *2 • michelle.avomo@proton.me"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Diplômée 2012, j'ai démarré ma vie professionnelle comme développeuse Java puis Front étant passée par Backbone.js, AngularJS, Angular puis VueJS. Ravie d'avoir retrouvé le monde du back-end par de la conception d'APIs en Kotlin depuis 2021. </p>
+resume_header_intro: "Diplômée 2012, j'ai démarré ma vie professionnelle comme développeuse Java puis Front étant passée par Backbone.js, AngularJS, Angular puis VueJS. Ravie d'avoir retrouvé le monde du back-end par de la conception d'APIs en Kotlin depuis 2021.
  <p> Je m'intérresse actuellement aux outils soutenant la culture DevOps, aux enjeux de la cybersécurité et autres domaines complémentaires du génie logiciel intégrant de la complexité technique et/ou fonctionnelle. </p> <p>Je vis et travaille à Paris.</p>"
 
 # use "yes" to display the email contact button,
@@ -48,7 +48,7 @@ resume_section_interests:       true
 resume_social_links:
   resume_github_url:            "https://github.com/mavomo"
   resume_linkedin_url:          "https://www.linkedin.com/in/michelle-a-622b8858"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
