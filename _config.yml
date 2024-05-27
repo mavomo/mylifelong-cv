@@ -46,8 +46,8 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/mavomo"
-  resume_linkedin_url:          "https://www.linkedin.com/in/michelle-a-622b8858"
+  resume_github_url:            false
+  resume_linkedin_url:          false
 resume_print_social_links:      false
 
 # Design settings
